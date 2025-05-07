@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'DingTalk-JinBuTi';
+    src: url('/custom/fonts/DingTalk-JinBuTi.woff2') format('woff2'),   /* 提供 WOFF2 格式 */
+         url('/custom/fonts/DingTalk-JinBuTi.woff') format('woff'),     /* 提供 WOFF 格式 */
+         url('/custom/fonts/DingTalk-JinBuTi.ttf') format('truetype');  /* 提供 TTF 格式 */
+    font-weight: normal;
+    font-style: normal;
+}

@@ -1,0 +1,12 @@
+/* 白天网站背景 */
+#web_bg {
+    background-size: 50rem;
+    background-image: url(/img/w.jpg) !important;
+    background-repeat: initial
+}
+
+/* 夜间网站背景 */
+[data-theme=dark] #web_bg {
+    background-size: 50rem;
+    background-image: url(/img/psc.jpg) !important;
+}
