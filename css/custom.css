@@ -1,0 +1,12 @@
+/* 白天网站背景 */
+#web_bg {
+    background-size: 105rem;
+    background-image: url(/img/sun.png) !important;
+    background-repeat: initial
+}
+
+/* 夜间网站背景 */
+[data-theme=dark] #web_bg {
+    background-size: 105rem;
+    background-image: url(/img/moon.png) !important;
+}
